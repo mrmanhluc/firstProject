@@ -1,7 +1,22 @@
 Xin Chao
 
 
-
+Bi danh da tao phien ban nay
 
 
 Run system da add them phan nay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature X da them o phan nay
