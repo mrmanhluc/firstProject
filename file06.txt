@@ -1,2 +1,6 @@
 file06
+<<<<<<< HEAD
 Add07
+=======
+Add 6
+>>>>>>> 70075ab7c17f4fe6e7856af53581afa22e7cdaca
