@@ -1,9 +1,27 @@
 Xin Chao
 
 
+Bi danh da tao phien ban nay
+
+
+Run system da add them phan nay
+
+<<<<<<< HEAD
 
 
 
+
+
+
+
+
+
+
+
+
+
+feature X da them o phan nay
+=======
 Run system da add them phan nay
 
 MANH LUC DA SUA O DAY
@@ -11,3 +29,4 @@ MANH LUC DA SUA O DAY
 
 
 Them 1 dong nua
+>>>>>>> feature_y
